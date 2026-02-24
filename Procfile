@@ -1,0 +1,1 @@
+web: uvicorn status_tracker:app --host 0.0.0.0 --port $PORT
